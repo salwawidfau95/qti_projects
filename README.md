@@ -38,7 +38,7 @@ uvicorn app.main:app --reload
 
 ---
 
-## 🧪 Testing
+## Testing
 
 ### Jalankan seluruh test
 ```bash
